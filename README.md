@@ -22,9 +22,8 @@ Many students are unaware of important university regulations until they face pr
 
 💾 How to Download
 
-1. Go to your GitHub repository.  
-2. Click the green **Code** button at the top-right.  
-3. Select **Download ZIP** from the dropdown menu.  
-4. Save the ZIP file to your computer.  
-5. Extract the ZIP file (right-click → “Extract All…” on Windows or double-click on Mac).  
-6. Open the folder and **double-click `index.html`** to view the website in your browser.
+1. Click the green **Code** button at the top-right.  
+2. Select **Download ZIP** from the dropdown menu.  
+3. Save the ZIP file to your computer.  
+4. Extract the ZIP file (right-click → “Extract All…” on Windows or double-click on Mac).  
+5. Open the folder and **double-click `index.html`** to view the website in your browser.
